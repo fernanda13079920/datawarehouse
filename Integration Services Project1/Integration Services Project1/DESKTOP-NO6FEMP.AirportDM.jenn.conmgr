@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-NO6FEMP.AirportDM.jenn"
+  DTS:DTSID="{F301FCD5-B3F3-4AE9-9D7B-4A82CF0D0A8F}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-NO6FEMP;Initial Catalog=AirportDM;Integrated Security=True;Application Name=&quot;SSIS-Integration Services Project1-{F301FCD5-B3F3-4AE9-9D7B-4A82CF0D0A8F}DESKTOP-NO6FEMP.AirportDM.jenn&quot;;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

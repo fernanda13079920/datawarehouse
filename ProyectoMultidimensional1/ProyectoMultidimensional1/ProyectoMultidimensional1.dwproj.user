@@ -1,0 +1,39 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Airportdm</Id>
+            <Name>Airportdm</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQrP4bdIGi02YUX4apLGSqwAAAAAUAAAAQQBpAHIAcABvAHIAdABkAG0AAAAQZgAAAAEAACAAAADNBjBwoRqDFGF7W3wx+8KuXOD55Fd58VtYdgnyHp8u9AAAAAAOgAAAAAIAACAAAACoRFxKpzHYEBp7tLN8MgRPnvjWFUpftdraGLIPQLc9GBAAAADKE94+f6IhaxnFg/+DrC18QAAAAAw00++oJMnj6HpyylueUb1ORcLRgCecT+SAWEcqWdzw2hxUlkuR8lz8omqJ4dSpSnHrl9eTYI6unVqq/9BsRS4=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Airport DM</Id>
+            <Name>Airport DM</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQrP4bdIGi02YUX4apLGSqwAAAAAWAAAAQQBpAHIAcABvAHIAdAAgAEQATQAAABBmAAAAAQAAIAAAAMa0bsnptjlkHzJaJR4nDkGt0o8dnaZstFPbS2KGn4dtAAAAAA6AAAAAAgAAIAAAAETC9gS/UcOUctFDbooHdKI0nPwjtdUM3i2A5WXpqB1QEAAAAE1lP07gP2KCZ/e/Ulug7IFAAAAAshJefCPt0BLcd6Hu6YOWlK/JEW/UcVZHo/iIkOVKoxSvsH351/YNKJ8e5I/FMy2OXffjQpf6CyO9+udqDgiCLA==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Airportdm</Id>
+            <Name>Airportdm</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQrP4bdIGi02YUX4apLGSqwAAAAAUAAAAQQBpAHIAcABvAHIAdABkAG0AAAAQZgAAAAEAACAAAAAdLas0rpvVNCCrW7HqrixGw9i2oORuGA8aOXnETrR0RQAAAAAOgAAAAAIAACAAAAC8L8RNtM5yLVRqvgxJay6szorfGYpbkDp/7H68WHzjmBAAAADtIj5YW6pXJPrCJhmDKzYYQAAAAOxf8Fvzgp807aLthf1vtD8Y8kgymraOC77Y3IheJYe6eznl4UQaG2EjXRS4LVEum5oYDBuF4zsArLZlF8ccuD0=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Airport DM</Id>
+            <Name>Airport DM</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQrP4bdIGi02YUX4apLGSqwAAAAAWAAAAQQBpAHIAcABvAHIAdAAgAEQATQAAABBmAAAAAQAAIAAAAGRD4FBsTu/n0UeMYuHiRInuluubH/FftHEioSqVpFnLAAAAAA6AAAAAAgAAIAAAAKikw21f8czKVjsHEhYdD/YsT8PfCBBFJcYooRKC9v71EAAAAPR8VWSgi0xcujj5uPzAzDBAAAAAV8JhMgld+s0vB93jiU+4kSJlDvCPi1J4A2J1BnSbrYmbqQvqfxlPxascw0cB89Pg3aJB5aYkPmUAy1aYlEs3wA==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>DESKTOP-NO6FEMP</TargetServer>
+        <TargetDatabase>ProyectoMultidimensional1</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
